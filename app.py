@@ -1,6 +1,6 @@
 # Install Streamlit if not already installed. This is placed at the top to ensure it runs before any imports.
 # Note: !pip install commands are generally not needed in Streamlit Cloud, but helpful for local testing.
-# import io
+import io
 import time
 # import importlib # Not needed for deployment if the module is part of the repo
 
