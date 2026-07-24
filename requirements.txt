@@ -6,3 +6,4 @@ tensorflow
 statsmodels
 matplotlib
 sklearn
+scikit-learn
