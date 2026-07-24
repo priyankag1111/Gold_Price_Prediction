@@ -5,3 +5,4 @@ plotly
 tensorflow
 statsmodels
 matplotlib
+sklearn
